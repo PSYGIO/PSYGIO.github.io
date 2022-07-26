@@ -1,4 +1,33 @@
-img {
-    width: 100%; 
+body {
+    background-image: url(g.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.cover {
+    width: 10%; 
     height: auto; 
+    position: absolute;
+    top: 1300px;
+    right: 10px;
+}
+
+p {
+  font-size: 150px;
+  color: red;
+}
+
+mark {
+    color: red;
+    background-color: #ffd040;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  right: 0;
 }
