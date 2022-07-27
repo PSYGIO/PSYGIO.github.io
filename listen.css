@@ -1,0 +1,11 @@
+mark {
+    color: red;
+    background-color: #ffd040;
+}
+
+body {
+    background-image: url(cover.JPG);
+    background-size: 200px;
+    font-family: "Work Sans";
+    font-size: 100px;
+}
