@@ -9,3 +9,13 @@ body {
     font-family: "Work Sans";
     font-size: 100px;
 }
+
+.container {
+    float: left;
+    margin-left: 6%;
+    margin-top: 50px;
+    
+}
+#icon {
+    width: 80px;
+}
