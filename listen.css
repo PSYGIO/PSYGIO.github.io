@@ -19,3 +19,9 @@ body {
 #icon {
     width: 80px;
 }
+p {
+    font-size: 50px;
+}
+a {
+    color: red;
+}
